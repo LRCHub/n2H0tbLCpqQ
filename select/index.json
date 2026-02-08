@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "mother tongue",
+  "base_artist": "Bring Me The Horizon",
+  "createdAt": "2026-02-08T04:22:06.051365Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mother Tongue",
+      "artist": "Canon Blue",
+      "has_synced": false,
+      "path": "select/01_Mother_Tongue_Canon_Blue.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "mother tongue",
+      "artist": "Liana Flores",
+      "has_synced": true,
+      "path": "select/02_mother_tongue_Liana_Flores.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "mother tongue",
+      "artist": "Liana Flores",
+      "has_synced": false,
+      "path": "select/03_mother_tongue_Liana_Flores.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "mother tongue",
+      "artist": "Bring Me the Horizon",
+      "has_synced": true,
+      "path": "select/04_mother_tongue_Bring_Me_the_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mother Tongue - Blow Version",
+      "artist": "Heather Nova",
+      "has_synced": true,
+      "path": "select/05_Mother_Tongue_-_Blow_Version_Heather_Nova.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mother Tongue",
+      "artist": "White Lies",
+      "has_synced": false,
+      "path": "select/06_Mother_Tongue_White_Lies.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mother Tongue",
+      "artist": "Orphx",
+      "has_synced": false,
+      "path": "select/07_Mother_Tongue_Orphx.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mother Tongue - Demo",
+      "artist": "White Lies",
+      "has_synced": true,
+      "path": "select/08_Mother_Tongue_-_Demo_White_Lies.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mother Tongue (demo)",
+      "artist": "White Lies",
+      "has_synced": true,
+      "path": "select/09_Mother_Tongue_(demo)_White_Lies.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mother Tongue (Sub Focus Remix)",
+      "artist": "Bring Me The Horizon",
+      "has_synced": true,
+      "path": "select/10_Mother_Tongue_(Sub_Focus_Remix)_Bring_Me_The_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mother Tongue (Sub Focus Remix)",
+      "artist": "Bring Me The Horizon",
+      "has_synced": false,
+      "path": "select/11_Mother_Tongue_(Sub_Focus_Remix)_Bring_Me_The_Horizon.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mother Tongue",
+      "artist": "Bring Me The Horizon",
+      "has_synced": true,
+      "path": "select/12_Mother_Tongue_Bring_Me_The_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "mother tongue - Recorded at Spotify Studios NYC",
+      "artist": "Bring Me The Horizon",
+      "has_synced": true,
+      "path": "select/13_mother_tongue_-_Recorded_at_Spotify_Studios_NYC_Bring_Me_The_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mother Tongue",
+      "artist": "Heather Nova",
+      "has_synced": false,
+      "path": "select/14_Mother_Tongue_Heather_Nova.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mother Tongue",
+      "artist": "White Lies",
+      "has_synced": true,
+      "path": "select/15_Mother_Tongue_White_Lies.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "mother tongue",
+      "artist": "Bring Me The Horizon",
+      "has_synced": false,
+      "path": "select/pl_01_mother_tongue_Bring_Me_The_Horizon.txt"
+    }
+  ]
+}
